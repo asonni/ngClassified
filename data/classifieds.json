@@ -1,0 +1,107 @@
+[
+  {
+    "id":"1",
+    "title":"20 Foot Equipment Trailer",
+    "description":"2013 rainbow trailer 20 feet x 82 inch deck area, two 5,000 lb",
+    "price":6000,
+    "posted":"2015-10-24",
+    "contact":{
+      "name":"Jhon Doe",
+      "phone":"(555) 555-5555",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Vehicled",
+      "Parts and Accessoried"
+    ],
+    "image":"img/p1358549934434943.jpg",
+    "views":213
+  },
+  {
+    "id":"2",
+    "title":"Canada Goose Jacket",
+    "description":"2013 rainbow trailer 20 feet x 82 inch deck area, two 5,000 lb",
+    "price":500,
+    "posted":"2015-10-28",
+    "contact":{
+      "name":"Jhon Doe",
+      "phone":"(555) 555-5555",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Clothing"
+    ],
+    "image":"img/p1358549934434943.jpg",
+    "views":201
+  },
+  {
+    "id":"3",
+    "title":"Baby Crib and Matress",
+    "description":"Good condition",
+    "price":50,
+    "posted":"2015-10-27",
+    "contact":{
+      "name":"Jhon Doe",
+      "phone":"(555) 555-5555",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+     "Furniture"
+    ],
+    "image":"img/p1358549934434943.jpg",
+    "views":23
+  },
+  {
+    "id":"4",
+    "title":"Leather Sofa",
+    "description":"Brown leather sofa for sale. Good condition but small tear on one cush",
+    "price":250,
+    "posted":"2015-11-01",
+    "contact":{
+      "name":"Jhon Doe",
+      "phone":"(555) 555-5555",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+      "Furniture"
+    ],
+    "image":"img/p1358549934434943.jpg",
+    "views":77
+  },
+  {
+    "id":"5",
+    "title":"MacBook Air",
+    "description":"2013 MacBook Air. Great condition, but a few scratches.",
+    "price":1150,
+    "posted":"2015-11-03",
+    "contact":{
+      "name":"Jhon Doe",
+      "phone":"(555) 555-5555",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+    "Electronics",
+    "Computer Parts and Accessories"
+    ],
+    "image":"img/p1358549934434943.jpg",
+    "views":889
+  },
+  {
+    "id":"6",
+    "title":"2008 Dodge Caliber",
+    "description":"2013 rainbow trailer 20 feet x 82 inch deck area, two 5,000 lb",
+    "price":4800,
+    "posted":"2015-12-03",
+    "contact":{
+      "name":"Jhon Doe",
+      "phone":"(555) 555-5555",
+      "email":"johndoe@gmail.com"
+    },
+    "categories":[
+    "Vehicles",
+    "Cars"
+    ],
+    "image":"img/p1358549934434943.jpg",
+    "views":423
+  }
+]
